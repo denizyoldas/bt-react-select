@@ -1,6 +1,6 @@
 {
   "name": "bt-react-select",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -20,6 +20,11 @@
   "author": "Deniz Aksu <daksu30@gmail.com>",
   "license": "MIT",
   "description": "React Select",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daksu30/bt-react-select.git"
+  },
+  "homepage": "https://github.com/daksu30/bt-react-select#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^26.0.1",
     "@rollup/plugin-node-resolve": "^15.2.3",
