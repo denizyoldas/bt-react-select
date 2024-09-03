@@ -7,6 +7,8 @@ The `Select` component is a versatile dropdown component for React applications.
 ![Select Component](./ss/ss1.png)
 ![Select Component](./ss/ss2.png)
 
+[Live Demo](https://react-select-omega.vercel.app/)
+
 ## Installation
 
 To use the `Select` component, ensure you have the necessary dependencies installed:
